@@ -22,7 +22,7 @@ DATA ANALYSIS FOR THE HR DEPARTMENT IN LITA
 ---
 
 ### Project Overview
-This project analyses a dataset containing HR data for LITA, including shirts, shoes, gloves, jackets, hats, and socks. The datasets include key information such as product types, order IDs, customer IDs, quantity of products sold, and unit prices. the primary objective of this project is to uncover insights from the sales data that can help this business brand make informed decisions to improve its product offerings, sales strategies, and customer experience.
+This project analyses a dataset containing HR data for LITA, including attrition, business travel, CF_age band, gender, department, employee number etc. The datasets include key information such as product types, order IDs, customer IDs, quantity of products sold, and unit prices. the primary objective of this project is to uncover insights from the sales data that can help this business brand make informed decisions to improve its product offerings, sales strategies, and customer experience.
 
 ---
 
