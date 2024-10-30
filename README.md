@@ -161,4 +161,4 @@ EDA involves exploring the data to answer some questions about the data such as;
 
 
 
-[alt text for image](
+[alt text for image](https://github.com/Light63/LITA-CLASS-PROJECT/blob/main/Class%203.JPG?raw=true)
