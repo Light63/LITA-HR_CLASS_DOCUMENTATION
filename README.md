@@ -150,3 +150,15 @@ EDA involves exploring the data to answer some questions about the data such as;
 
 
 [alt text for image](https://github.com/Light63/LITA-CLASS-PROJECT/blob/main/CLASS%201.JPG?raw=true)
+
+
+
+
+[alt text for image](https://github.com/Light63/LITA-CLASS-PROJECT/blob/main/class%202.JPG?raw=true)
+
+
+
+
+
+
+[alt text for image](
