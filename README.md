@@ -114,14 +114,14 @@ EDA involves exploring the data to answer some questions about the data such as;
   Figure 1: Shows the overall trend for the HR data using pivot tables and charts
 
 
-  ![Alt text for image](
+  ![Alt text for image](https://github.com/Light63/LITA-HR_CLASS_DOCUMENTATION/blob/main/Excel%20HR%202.JPG?raw=true)
 
   Figure 2: Shows the overall trend sales  for the customer data using pivot tables and charts
 
 
 
 
-  ![Alt text for image](https://github.com/Light63/DATA_ANALYSIS_JOURNEY-_WITH_LITA/blob/main/BI%201.JPG?raw=true)
+  ![Alt text for image]()
 
 
 
