@@ -155,3 +155,31 @@ EDA involves exploring the data to answer some questions about the data such as;
 
 
 ![alt text for image](https://github.com/Light63/LITA-CLASS-PROJECT/blob/main/Class%203.JPG?raw=true)
+
+
+### RESULTS
+
+from the above analysis, The total number of attrition reflects 237 employees, the total number of employees is 1,470 and the current employee is 1,233. This indicates that more employees are leaving the organization quickly, especially from the life sciences educational field. 20 employees from the laboratory technicians roles are very dissatisfied as against the 13 very satisfied employees. 16 sales executives are very dissatisfied as against the 14 very satisfied sales executives. Also, 13 research scientists are very dissatisfied as against the 9 very satisfied research scientists.
+
+This reflects poor employee treatment by the organization. Again, it was observed that 112 of the employees who left were within the age bracket of 25-34. this is particularly risky as the organisation is fast losing her young minds that have the potential of bringing in digital innovations that could make the organization a global empire.
+
+
+### RECOMMENDATIONS
+
+Targeted Retention Strategies: Develop tailored retention programs for departments with high attrition like laboratory technicians, sales executives, and  research scientists, focusing on improving job satisfaction and career growth opportunities.
+
+Compensation Review: Conduct a compensation audit to ensure competitive pay across similar roles, addressing any disparities linked to education. this will encourage employees to remain in the company and give their best, especially for married men who from our analysis have a higher attrition rate.
+
+
+Education and Development Programs: Implement training and development initiatives that align with the educational backgrounds of employees to enhance job satisfaction and performance. This initiative will help keep the age bracket of 25-34 in the organization as they tend to want to learn new things and grow. knowing that they have the company's support for their growth and development will help them explore strategic innovations in the organisation thereby helping the organisation grow in the process.
+
+Exit Interviews: Regularly conduct exit interviews to gather insights on why employees leave, particularly focusing on departments with high turnover rates.
+
+Mentorship Programs: Establish mentorship opportunities for new hires, particularly in high turnover departments, to improve integration and retention.
+
+By focusing on these areas, the organization can better understand its workforce dynamics and take proactive steps to enhance employee satisfaction and retention.
+
+
+
+
+
