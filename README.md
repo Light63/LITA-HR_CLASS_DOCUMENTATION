@@ -19,7 +19,7 @@ DATA ANALYSIS FOR THE HR DEPARTMENT IN LITA
 
 [Data Visualization](#data-visualization)
 
-[RESULTS](#results)
+[Results](#results)
 
 [Recommendations](#recommendations)
 
@@ -163,14 +163,14 @@ EDA involves exploring the data to answer some questions about the data such as;
 ![alt text for image](https://github.com/Light63/LITA-CLASS-PROJECT/blob/main/Class%203.JPG?raw=true)
 
 
-### RESULTS
+### Results
 
 from the above analysis, The total number of attrition reflects 237 employees, the total number of employees is 1,470 and the current employee is 1,233. This indicates that more employees are leaving the organization quickly, especially from the life sciences educational field. 20 employees from the laboratory technicians roles are very dissatisfied as against the 13 very satisfied employees. 16 sales executives are very dissatisfied as against the 14 very satisfied sales executives. Also, 13 research scientists are very dissatisfied as against the 9 very satisfied research scientists.
 
 This reflects poor employee treatment by the organization. Again, it was observed that 112 of the employees who left were within the age bracket of 25-34. this is particularly risky as the organisation is fast losing her young minds that have the potential of bringing in digital innovations that could make the organization a global empire.
 
 
-### RECOMMENDATIONS
+### Recommendations
 
 Targeted Retention Strategies: Develop tailored retention programs for departments with high attrition like laboratory technicians, sales executives, and  research scientists, focusing on improving job satisfaction and career growth opportunities.
 
