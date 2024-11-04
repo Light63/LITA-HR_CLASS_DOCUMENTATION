@@ -33,20 +33,21 @@ The primary source of data used here is Data Sale.CSV. It is open-source data th
 
 ### Key Features
 
-#### Data Exploration and Cleaning: 
-Assessing and cleaning the dataset to ensure accurate and reliable analysis.
+I. Attrition: Indicates whether an employee has left the organization or not. This is essential for analyzing turnover rates and employee retention strategies.
 
-#### Sales Performance Analysis: 
-Analyzed sales trends for each product type using amazing tools like Excel, SQL, and Power Bid to identify the most popular products and seasonal patterns.
+ii. Educational Field: The area of study in which the employee has a degree, useful for assessing the educational background relative to job roles.
 
-#### Customer Segmentation: 
-Grouping customers based on their purchasing behaviour to understand preferences and tailor marketing strategies.
+iii. Education: Level of education attained (e.g., high school, bachelor's, master's), this provides insights into the qualifications of the workforce.
 
-#### Order Analysis: 
-Evaluating order details to determine order frequency, size, and trends across different product categories.
+iv. Daily Rate: Employee's daily compensation, particularly useful for payroll analysis and benchmarking salary structures.
 
-#### Visualizations:
-Creating visualizations to present sales performance, customer segmentation, and trends for better decision-making.
+v. Job Role: Title or position held by the employee, allowing for analysis of job-specific trends, performance, and attrition rates.
+
+vi. Job Satisfaction: Measures employee contentment with their role, often rated on a scale, crucial for understanding morale and retention.
+
+vii. Department: This is the Specific area within the organization (e.g., HR, IT, Sales), enabling departmental analysis of performance and employee engagement.
+
+viii. Age Band: Employees are categorized into age ranges (e.g., 18-25, 26-35), which facilitates demographic analysis and workforce planning.
 
 ---
 
@@ -109,13 +110,11 @@ EDA involves exploring the data to answer some questions about the data such as;
 - Which products are top sellers
 - What are the products on peak sales? (pivot tables and charts for both datasets here)
 
-  ![Alt text for image](https://github.com/Light63/DATA_ANALYSIS_JOURNEY-_WITH_LITA/blob/main/Excel%20sales%20data%201.JPG?raw=true)
+  ![Alt text for image](
+  Figure 1: Shows the overall trend sales for the HR data using pivot tables and charts
 
-  Figure 1: Shows the overall trend sales for the sales data using pivot tables and charts
 
-
-  ![Alt text for image](https://github.com/Light63/DATA_ANALYSIS_JOURNEY-_WITH_LITA/blob/main/EXCEL%20CUSTOMER%20DATA.JPG?raw=true)
-
+  ![Alt text for image](
 
   Figure 2: Shows the overall trend sales  for the customer data using pivot tables and charts
 
