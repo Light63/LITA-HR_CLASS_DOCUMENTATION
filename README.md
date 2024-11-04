@@ -104,7 +104,7 @@ In the initial phase of the data cleaning and preparations, the following action
 
 #### POWER BI
   1. launched the power bi environment.
-  2. Importation of both datasets using the TEXT/CSV file extension.
+  2. Importation of the HR datasets using EXCEL.
   3. Explored and cleaned the dataset.
   4. Confirmed the integrity of the datasets by using column quality, column distribution, and column profile options under the view tab.
 
