@@ -33,7 +33,7 @@ This project analyses a dataset containing HR data for LITA, including attrition
 ---
 
 ### Data Sources
-The primary source of data used here is Data Sale.CSV. It is open-source data that can be freely downloaded from an open source online such as Kaggle or FRED or any other data repository site. 
+The primary source of data used here is Data Sale.CSV. It is open-source data that can be freely downloaded from an open source online such as Kaggle, FRED or any other data repository site. 
 
 ---
 
@@ -106,7 +106,7 @@ In the initial phase of the data cleaning and preparations, the following action
   1. launched the power bi environment.
   2. Importation of both datasets using the TEXT/CSV file extension.
   3. Explored and cleaned the dataset.
-  4. Confirmed the integrity of the datasets by using column quality, column distribution, and column profile options under the view tab(screenshot of this).
+  4. Confirmed the integrity of the datasets by using column quality, column distribution, and column profile options under the view tab.
 
 ---
 
@@ -114,7 +114,7 @@ In the initial phase of the data cleaning and preparations, the following action
 EDA involves exploring the data to answer some questions about the data such as;
 - What is the overall sales trend
 - Which products are top sellers
-- What are the products on peak sales? (pivot tables and charts for both datasets here)
+- What are the products on peak sales? 
 
   ![Alt text for image](https://github.com/Light63/LITA-HR_CLASS_DOCUMENTATION/blob/main/Excel%20HR%201.JPG?raw=true)
   Figure 1: Shows the overall trend for the HR data using pivot tables and charts
