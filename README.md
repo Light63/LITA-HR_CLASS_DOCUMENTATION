@@ -121,7 +121,7 @@ EDA involves exploring the data to answer some questions about the data such as;
 
 
 
-  ![Alt text for image]()
+  ![Alt text for image](https://github.com/Light63/LITA-HR_CLASS_DOCUMENTATION/blob/main/HR%20BI%201.JPG?raw=true)
 
 
 
