@@ -22,7 +22,7 @@ DATA ANALYSIS FOR THE HR DEPARTMENT IN LITA
 ---
 
 ### Project Overview
-This project analyses a dataset containing HR data for LITA, including attrition, business travel, CF_age band, gender, department, employee number etc. The datasets include key information such as product types, order IDs, customer IDs, quantity of products sold, and unit prices. the primary objective of this project is to uncover insights from the sales data that can help this business brand make informed decisions to improve its product offerings, sales strategies, and customer experience.
+This project analyses a dataset containing HR data for LITA, including attrition, business travel, CF_age band, gender, department, employee number etc. The aim of this project is to analyze HR data to gain insights into employee demographics, job satisfaction, attrition rates, and educational backgrounds. The findings will inform strategies for improving employee retention, enhancing job satisfaction, and optimizing recruitment processes.
 
 ---
 
@@ -116,8 +116,7 @@ EDA involves exploring the data to answer some questions about the data such as;
 
   ![Alt text for image](https://github.com/Light63/LITA-HR_CLASS_DOCUMENTATION/blob/main/Excel%20HR%202.JPG?raw=true)
 
-  Figure 2: Shows the overall trend sales  for the customer data using pivot tables and charts
-
+  Figure 2: Shows the overall trend sales for the HR data using pivot tables and charts
 
 
 
@@ -125,13 +124,8 @@ EDA involves exploring the data to answer some questions about the data such as;
 
 
 
-
-
-
-
-  Figure 3: Shows the already prepared dataset ready for visualizations. this is particularly important as it enables effective analysis of the data to make valid and informed decisions 
-            that will in turn, identify patterns, and sales trends, as well as boost productivity. Hence, increasing revenue and customer satisfaction.
-
+  Figure 3: Shows the cleaned dataset ready for visualization. This is particularly important as it enables effective analysis of the data to make valid and informed decisions 
+            that will, in turn, identify patterns, improve employee retention, enhance job satisfaction, and optimise recruitment processes.
 
 ---
 
