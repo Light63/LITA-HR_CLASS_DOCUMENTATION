@@ -110,8 +110,8 @@ EDA involves exploring the data to answer some questions about the data such as;
 - Which products are top sellers
 - What are the products on peak sales? (pivot tables and charts for both datasets here)
 
-  ![Alt text for image](
-  Figure 1: Shows the overall trend sales for the HR data using pivot tables and charts
+  ![Alt text for image](https://github.com/Light63/LITA-HR_CLASS_DOCUMENTATION/blob/main/Excel%20HR%201.JPG?raw=true)
+  Figure 1: Shows the overall trend for the HR data using pivot tables and charts
 
 
   ![Alt text for image](
