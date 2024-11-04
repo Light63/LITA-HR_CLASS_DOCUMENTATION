@@ -19,6 +19,12 @@ DATA ANALYSIS FOR THE HR DEPARTMENT IN LITA
 
 [Data Visualization](#data-visualization)
 
+[RESULTS](#results)
+
+[Recommendations](#recommendations)
+
+
+
 ---
 
 ### Project Overview
